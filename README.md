@@ -16,4 +16,5 @@ Para instalar o node [clique aqui](https://nodejs.org/en/)
 
 Veja o projeto online [clique aqui](https://projeto-gama-star-wars.vercel.app/)
 
-## Professor Douglas Morais
+
+## Professor Douglas Morais // Aluno Lucas Pereira"# projeto-gama-star-wars"  
